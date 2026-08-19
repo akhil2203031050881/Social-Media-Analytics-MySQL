@@ -53,34 +53,35 @@ The project consists of the following tables:
 
 ### 1. Most Active Users
 - Identified the top 10 users based on combined posts and comments.
-
+![Task 1](screenshots/output1.png)
+ 
 ### 2. Most Liked Posts
 - Retrieved the posts with the highest number of likes along with their creators.
-
+![Task 2](screenshots/output2.png)
 ### 3. Top Countries by Engagement
 - Calculated average likes per post for each country.
-
+![Task 3](screenshots/output3.png)
 ### 4. Trending Hashtags
 - Identified hashtags used in more than 20 posts.
-
+![Task 4](screenshots/output1.png)
 ### 5. Top Influencers
 - Ranked users based on follower count.
-
+![Task 5](screenshots/output5.png)
 ### 6. Followers Who Never Interacted
 - Found users who follow others but never liked or commented.
-
+![Task 6](screenshots/output6.png)
 ### 7. Highest Engagement Hashtags
 - Calculated total engagement (Likes + Comments) for each hashtag.
-
+![Task 7](screenshots/output7.png)
 ### 8. Busiest Posting Time
 - Identified the day/hour with the highest posting activity.
-
+![Task 8](screenshots/output8.png)
 ### 9. Inactive Users
 - Retrieved users who never posted, liked, or commented.
-
+![Task 9](screenshots/output9.png)
 ### 10. Top Countries with Most Influencers
 - Ranked countries based on the number of highly followed users.
-
+![Task 10](screenshots/output10.png)
 ---
 
 ##  SQL Concepts Used
